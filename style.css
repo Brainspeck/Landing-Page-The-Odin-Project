@@ -69,6 +69,7 @@ button {
 
 .main-section-container {
     margin-top: 2.5rem;
+    padding-bottom: 100px;
 }
 
 .info {
@@ -102,4 +103,35 @@ button {
     width: 7rem;
     text-align: center;
     margin-top: 0.5rem;
+}
+
+.quote-main-container {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 50%;
+    margin-top: 30px;
+}
+
+.quote {
+    font-size: 26px;
+    color: #1F2937;
+    word-wrap: break-word;
+}
+
+.author {
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: auto;
+    margin-top: 2rem;
+    color: #1F2937;
 }
