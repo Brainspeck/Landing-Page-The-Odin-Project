@@ -135,3 +135,43 @@ button {
     margin-top: 2rem;
     color: #1F2937;
 }
+
+.sign-up-main-container {
+    padding: 50px;
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+
+.text-container {
+    background-color: #3882F6;
+    padding: 30px 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.action {
+    font-size: 20px;
+}
+
+.sign-up-description {
+    font-size: 14px;
+}
+
+.button-container {
+    background-color: #3882F6;
+}
+
+
+#white {
+    border: 1px solid white;
+    margin-left: 100px;
+}
+
+.footer-container {
+    background-color: #1F2937;
+    color: white;
+    padding: 18px;
+    text-align: center;
+}
